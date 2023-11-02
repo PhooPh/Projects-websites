@@ -1,0 +1,529 @@
+.earth{
+    background-image:url(pinktree.jpg);
+    
+
+    background-size: cover;
+    background-position: center;
+    width:20%;  
+    height:600px;
+    border:1px solid rgb(165, 135, 135);
+    background-color: rgb(197, 193, 218);
+    
+}
+*{
+    margin:0;
+    padding:0;
+}
+.title{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(204, 193, 193);
+    font-weight: 1px;
+    margin-top: 38px;
+}
+.pic{
+    margin-bottom:-40px;
+    margin-left: 35px;
+}
+.dash{
+    width:230px;  
+    height:50px;
+    border:1px solid rgb(165, 135, 135);
+    background-color: rgb(233, 169, 153);
+    border-radius:10px;
+    margin-left: 10px;
+    margin-top: -4px;
+    
+}
+.lugx{
+    
+    margin-top: 16px;
+    margin-left: 60px;
+
+}
+
+menu{
+    margin-top:10px;
+    display: flex;
+    height:400vh;
+    transition: .5s;
+    text-decoration: none;
+    padding: 2%;
+    font-size: 15px;
+    justify-content: space-evenly;
+    color:rgb(217, 215, 215);
+    margin-top:0px;
+
+    }
+a{
+    text-decoration: none;
+    position:relative;
+    color:rgb(217, 215, 215);
+    
+}
+li{
+    list-style: none;
+    cursor: pointer;
+    margin-top:-10px;
+    padding: 25px 80px;
+}
+.user{
+    padding-left:53px;
+    width: 18px;
+    height: 18px;
+    margin-bottom:-35px;
+    
+}
+ .table{
+    margin-bottom:-94px;
+    margin-left:-20px;
+    width: 18px;
+    height: 18px;
+}
+.typo{
+    margin-bottom:-150px;
+    margin-left:-22px;
+    width: 18px;
+    height: 18px;
+}
+.icon{
+    margin-bottom:-210px;
+    margin-left: -22px;
+    width: 18px;
+    height: 18px;
+}
+.maps{
+    margin-bottom:-268px;
+    margin-left: -22px;
+    width: 18px;
+    height: 18px;
+}
+.noti{
+    margin-bottom:-325px;
+    margin-left: -22px;
+    width: 18px;
+    height: 18px;
+}
+.secondbody{
+    margin-top:-601.5px ;
+    margin-left:253px ;
+    width:80%;  
+    height:600px;
+    border:1px solid rgb(21, 17, 22);
+    background-color:rgb(61, 61, 100);
+    
+}
+*{
+    margin:0;
+    padding:0;
+}
+.test{
+    margin-top: 20px;
+    margin-left: 30px;
+    color: rgb(185, 178, 178);
+}
+.loginbox{
+    border: none;
+    width: 200px;
+    border-bottom:1px solid gray;
+    padding: 5px;
+    margin-left: 600px;
+    outline:none;
+    margin-top: -10px;
+}
+.search{
+    margin-top: -24px;
+    margin-left:600px;
+    color: grey;
+
+}
+.binolay{
+    border: 1px solid gray;
+    width:36px;
+    height:36px;
+    border-radius: 50%;
+    color: gray;
+    margin-top: -25px;
+    margin-left: 820px;
+    background-color: gray;
+}
+.bino{
+    width: 16px;
+    height: 16px;
+    text-decoration: center;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.i{
+    background-color:rgb(61, 61, 100) ;
+    border: 1px solid rgb(61, 61, 100);
+    width: 130px;
+    height: 45px;
+    margin-top: -39px;
+    margin-left:870px;
+}
+.picture{
+    margin-left: 4px;
+    width: 19px;
+    height: 19px;
+
+}
+.noti5{
+    margin-left: 22px;
+    width: 27px;
+    height: 27px;
+
+}
+.user2{
+    margin-left: 22px;
+    width:19px;
+    height: 19px;
+}
+.firstgreen{
+    margin-left:50px ;
+    margin-top:50px ;
+    background-color:rgb(54, 54, 83) ;
+    border: 1px solid rgb(61, 61, 100);
+    width: 275px;
+    height: 280px;
+    border-radius: 20px;
+
+}
+.box1{
+    width: 245px;
+    height: 200px;
+    margin-top:-10px ;
+    margin-left:16px ;
+
+}
+.daily{
+    margin-left: 20px;
+    margin-top:8px;
+    font-size: 17px;
+    color: grey;
+}
+.arrow{
+    width: 10px;
+    height: 10px;
+    margin-left: 20px;
+}
+.five{
+    color: green;
+    font-size: 12px;
+    margin-left: 35px;
+    margin-top: -18px;
+}
+.today{
+    font-size: 12px;
+    margin-top:-14px;
+    margin-left:65px ;
+    color: grey;
+}
+.line1{
+    border: none;
+    width: 275px;
+    border-top:1px solid gray;
+    margin-top: 15px;
+    outline:none;
+ 
+}
+.time{
+    width: 13px;
+    height: 13px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.minute{
+    color: grey;
+    font-size: 12px;
+    margin-left: 40px;
+    margin-top: -19px;
+}
+.secondyellow{
+    margin-left:370px ;
+    margin-top:-282px ;
+    background-color:rgb(54, 54, 83) ;
+    border: 1px solid rgb(61, 61, 100);
+    width: 275px;
+    height: 280px;
+    border-radius: 20px;
+
+}
+.box2{
+    width: 245px;
+    height: 200px;
+    margin-top:-10px ;
+    margin-left:16px ;
+
+}
+.email{
+    margin-left: 20px;
+    margin-top:5px;
+    font-size: 17px;
+    color: grey;
+}
+.last{
+    font-size: 13px;
+    margin-top:5px;
+    margin-left:20px ;
+    color: rgb(99, 97, 97);
+}
+.line2{
+    border: none;
+    width: 275px;
+    border-top:1px solid gray;
+    margin-top: 15px;
+    outline:none;
+ 
+}
+.time2{
+    width: 13px;
+    height: 13px;
+    margin-left: 18px;
+    margin-top: 8px;
+}
+.days{
+    color: grey;
+    font-size: 12px;
+    margin-left: 40px;
+    margin-top: -19px;
+}
+.thirdred{
+    margin-left:700px ;
+    margin-top:-282px ;
+    background-color:rgb(54, 54, 83) ;
+    border: 1px solid rgb(61, 61, 100);
+    width: 275px;
+    height: 280px;
+    border-radius: 20px;
+
+}
+.box3{
+    width: 245px;
+    height: 200px;
+    margin-top:-10px ;
+    margin-left:16px ;
+
+}
+.Tasks{
+    margin-left: 20px;
+    margin-top:5px;
+    font-size: 17px;
+    color: grey;
+}
+.campaign{
+    font-size: 13px;
+    margin-top:5px;
+    margin-left:20px ;
+    color: rgb(99, 97, 97);
+}
+.ago{
+    color: grey;
+    font-size: 12px;
+    margin-left: 40px;
+    margin-top: -19px;
+}
+.minibox1{
+    border: 1px solid rgb(54, 54, 83) ;
+    width: 200px;
+    height: 140px;
+    background-color:rgb(54, 54, 83) ;
+    margin-top:73px ;
+    margin-left:50px ;
+    border-radius: 20px;
+}
+.copybox{
+    width: 80px;
+    height: 80px;
+    border-radius: 6px;
+    background-color: orange;
+    margin-top: -20px;
+    margin-left: 20px;
+}
+.copypic{
+    margin-left: 18px;
+    margin-top: 20px;
+    width: 40px;
+    height: 40px;
+}
+.space{
+    color: grey;
+    font-size: 16px;
+    margin-top: -40px;
+    margin-left: 110px;
+}
+.number{
+    color: grey;
+    font-size: 22px;
+    margin-top: 5px;
+    margin-left: 133px;
+}
+.gb{
+    color: grey;
+    font-size: 20px;
+    margin-top: 9px;
+    margin-left: 150px;
+}
+.conclue{
+    border: none;
+    width: 190px;
+    border-top:1px solid rgb(109, 105, 105);
+    margin-top: 10px;
+    outline:none;
+    margin-left: 5px;
+
+ 
+}
+.updatelay{
+    width: 15px;
+    height: 15px;
+    margin-left: 20px;
+    margin-top: 5px;
+
+}
+.updated1{
+    color: rgb(121, 112, 112);
+    font-size: 13px;
+    margin-left: 40px;
+    margin-top: -17px;
+}
+.minibox2{
+    border: 1px solid rgb(54, 54, 83) ;
+    width: 200px;
+    height: 140px;
+    background-color:rgb(54, 54, 83) ;
+    margin-top:-141px ;
+    margin-left:300px ;
+    border-radius: 20px;
+}
+.homebox{
+    width: 80px;
+    height: 80px;
+    border-radius: 6px;
+    background-color: rgb(87, 136, 103);
+    margin-top: -20px;
+    margin-left: 20px;
+}
+.homepic{
+    margin-left: 21px;
+    margin-top: 20px;
+    width: 38px;
+    height: 38px;
+}
+.live{
+    color: grey;
+    font-size: 16px;
+    margin-top: -40px;
+    margin-left: 128px;
+}
+.dollor{
+    color: grey;
+    font-size: 22px;
+    margin-top: 5px;
+    margin-left: 125px;
+}
+.fi{
+    color: grey;
+    font-size: 20px;
+    margin-top: 9px;
+    margin-left: 175px;
+}
+.minibox3{
+    border: 1px solid rgb(54, 54, 83) ;
+    width: 200px;
+    height: 140px;
+    background-color:rgb(54, 54, 83) ;
+    margin-top:-141px ;
+    margin-left:550px ;
+    border-radius: 20px;
+}
+.excbox{
+    width: 80px;
+    height: 80px;
+    border-radius: 6px;
+    background-color: rgb(168, 46, 46);
+    margin-top: -20px;
+    margin-left: 20px;
+}
+.excpic{
+    margin-left: 21px;
+    margin-top: 20px;
+    width: 38px;
+    height: 38px;
+}
+.fix{
+    color: grey;
+    font-size: 17px;
+    margin-top: -40px;
+    margin-left: 140px;
+}
+.sign{
+    color: grey;
+    font-size: 22px;
+    margin-top: 5px;
+    margin-left: 125px;
+}
+.count{
+    color: grey;
+    font-size: 20px;
+    margin-top: 9px;
+    margin-left: 160px;
+}
+.minibox4{
+    border: 1px solid rgb(54, 54, 83) ;
+    width: 200px;
+    height: 140px;
+    background-color:rgb(54, 54, 83) ;
+    margin-top:-141px ;
+    margin-left:800px ;
+    border-radius: 20px;
+}
+.twitterbox{
+    width: 80px;
+    height: 80px;
+    border-radius: 6px;
+    background-color: rgb(7, 74, 112);
+    margin-top: -20px;
+    margin-left: 20px;
+}
+.twitterpic{
+    margin-left: 21px;
+    margin-top: 20px;
+    width: 38px;
+    height: 38px;
+}
+.follow{
+    color: grey;
+    font-size: 15px;
+    margin-top: -40px;
+    margin-left: 125px;
+}
+.plus{
+    color: grey;
+    font-size: 22px;
+    margin-top: 8px;
+    margin-left: 140px;
+}
+.birdline{
+    border: none;
+    width: 190px;
+    border-top:1px solid rgb(109, 105, 105);
+    margin-top: 38px;
+    outline:none;
+    margin-left: 5px;
+
+ 
+}
+.timebird{
+    width: 15px;
+    height: 15px;
+    margin-left: 20px;
+    margin-top: 5px;
+
+}
+.updated4{
+    color: rgb(121, 112, 112);
+    font-size: 13px;
+    margin-left: 40px;
+    margin-top: -17px;
+}
